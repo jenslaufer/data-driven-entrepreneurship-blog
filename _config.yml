@@ -265,6 +265,9 @@ compress_html:
   ignore:
     envs: development
 
+footer_scripts:
+  - /assets/js/mautic.js
+
 
 # Defaults
 defaults:
