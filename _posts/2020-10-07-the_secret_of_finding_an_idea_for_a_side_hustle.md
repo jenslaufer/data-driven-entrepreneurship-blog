@@ -19,11 +19,18 @@ After my break, I investigated the metrics that different Internet marketplaces 
 
 - **Amazon**
 
-- **Fiverr**
+
+![Amazon Metrics](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_800/v1602248110/amazon_metrics.png) 
 
 - **Udemy**
 
+
+![Udemy Metrics](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_800/v1602248110/udemy_metrics.png)
+
 - **Gumroad**
+
+![Gumroad Metrics](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_800/v1602248110/gumroad_metrics.png)
+
 
 Indeed all these marketplaces offer similar metrics to support the customer in the buying process, which we can use for our purposes.
 
@@ -50,7 +57,7 @@ On the Fiverr site, we find the numbers we need for a keyword(=niche) and from w
 
 You can find the number of gigs in the upper right corner. For each gig you will see the price, the number of reviews and the average rating. You will also get the sales level of the supplier. A seller receives a higher sales level when he reaches a certain number of sales with a significant number of positive ratings.
 
-![Metrics on Fiverr](/assets/img/fiverr_metrics.png)
+![Metrics on Fiverr](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_80,w_800/v1602246156/fiverr_metrics.png)
 
 You have to enter the data for all gigs from page one to a worksheet to get an overall picture.
 
