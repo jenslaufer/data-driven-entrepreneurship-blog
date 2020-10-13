@@ -1,7 +1,11 @@
 ---
 title: "The secret of finding an idea for a side hustle"
 subtitle: "...and why it's often not even about ideas"
+header:
+    image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1602590442/andrew-neel-fkalryO4dUI-unsplash.jpg
+    caption: "Photo by [Andrew Neel](https://unsplash.com/@andrewtneel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) [**Unsplash**](https://unsplash.com/s/photos/passion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 ---
+
 
 When I was looking for a gig on [Fiverr](https://track.fiverr.com/visit/?bta=129082&brand=fiverrcpa) for logo design, I experienced a moment of enlightenment. I searched for gigs to find the most suitable one for me. However, the search overwhelmed me with increasing duration, because there were simply too many providers. To be more systematic, I quickly wrote a small program (scraper) to extract data such as average rating, number of ratings, price of the different providers into a database. Now it was much easier to find the right seller because I could analyze the data more precisely. Within a short time, I had found the seller I still work with today.
 
