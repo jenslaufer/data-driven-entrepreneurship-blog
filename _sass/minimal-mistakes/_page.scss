@@ -30,6 +30,11 @@ body {
           flex-direction: column;
 }
 
+#page-subtitle{
+  color: $darkgray;
+  font-size: $type-size-5;
+}
+
 .initial-content,
 .search-content {
   flex: 1 0 auto;
