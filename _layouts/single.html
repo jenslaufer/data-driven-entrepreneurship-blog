@@ -35,7 +35,9 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
           <p>" | remove: "</p>
           " }}
         </h1>
-        {% endif %} {% include page__meta.html %}
+        {% endif %}
+        <h2 id="page-subtitle" class="page__subtitle">{% if page.subtitle %}{{ page.subtitle }}{% endif %}</h2>
+        {% include page__meta.html %}
       </header>
       {% endunless %}
 
@@ -70,9 +72,8 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
         <h4 class="page__meta-title">
           {{ site.data.ui-text[site.locale].meta_label }}
         </h4>
-        {% endif %} {% include page__taxonomy.html %} {% include page__date.html
-        %}
-        {% include /marketing/optin.html %}
+        {% endif %} {% include /marketing/optin.html %} {% include
+        page__taxonomy.html %} {% include page__date.html %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %} {% include
