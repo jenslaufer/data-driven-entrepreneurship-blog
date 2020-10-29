@@ -2,13 +2,14 @@
 title: "In which area should I look for business ideas?"
 subtitle: "A practical guide on how to find your passions and why they are important for your business activities."
 header:
-    image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_80,w_800/v1602590442/andrew-neel-fkalryO4dUI-unsplash.jpg
-    caption: "Photo by [Andrew Neel](https://unsplash.com/@andrewtneel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) [**Unsplash**](https://unsplash.com/s/photos/passion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
+    image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1603965801/maciej-gerszewski-zpLrZLiKICc-unsplash.jpg
+    caption: "Photo by [Maciej Gerszewski](https://unsplash.com/@shakalmag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) [**Unsplash**](https://unsplash.com/s/photos/sweet-spot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 categories:
     - business
     - opportunities
     - discovery
 ---
+<span>Photo by <a href="">Maciej Gerszewski</a> on <a href="">Unsplash</a></span>
 
 If you follow my articles, you know that I take a data-driven approach to finding business ideas. It's not so much about ideas as it is about business opportunities that you systematically search by using easily accessible data.
 
