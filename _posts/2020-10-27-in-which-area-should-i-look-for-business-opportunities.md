@@ -22,7 +22,7 @@ Do you just want to sell masks? If you are not enthusiastically sewing masks you
 
 A few years ago, I experienced this first hand when I discovered the niche "aphtha treatment" with the help of keyword analysis. I often had problems with them and found out that I could fight them quite effectively with pure ascorbic acid (=Vitamin C). So I wanted to sell ascorbic acid in small pack sizes as a kind of fight-apathetic-formula. Quickly I had created a landing page with a matching pay-per-click campaign on Google. With the help of the test campaign, I was able to validate that the niche had potential. However, during my research, I encountered a difficulty: The sale of medical products is strictly regulated in Germany so that I couldn't sell my product without permission. A problem that can be solved if you get these permits. Do you know what happened? I buried the idea because I didn't feel much like this kind of product anyway.
 
-**The secret is to start a business in areas where you are a professional, and you love. Nothing and nobody can stop you then. You have to find your passion. I define passion as the intersection of what you are good at and what you love.
+**The secret is to start a business in areas where you are a professional, and you love. Nothing and nobody can stop you then. You have to find your passion. I define passion as the intersection of what you are good at and what you love.**
 
 ![Where do I start a business-Your passions](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1603964800/passion.png)
 
