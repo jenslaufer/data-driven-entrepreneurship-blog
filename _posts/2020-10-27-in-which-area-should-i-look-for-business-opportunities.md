@@ -23,9 +23,11 @@ A few years ago, I experienced this first hand when I discovered the niche "apht
 
 **The secret is to start a business in areas where you are a professional, and you love. Nothing and nobody can stop you then. You have to find your passion. I define passion as the intersection of what you are good at and what you love.
 
-[](assets/find_your_passion_venn_diagram.png)
+![Where do I start a business-Your passions](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1603964800/passion.png)
 
 For starting your own business, business opportunities are another component: You search for these opportunities using data from the Internet according to your passions. In the beginning, you may only have a side hustle to generate additional income, which you can expand into your own business over time.
+
+![Where do I start a business-Your Sweet Spot](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1603964800/sweet_spot.png)
 
 I want to show you how to find your passions:
 
