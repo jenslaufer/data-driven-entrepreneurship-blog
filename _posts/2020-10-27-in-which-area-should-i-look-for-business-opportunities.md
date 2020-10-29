@@ -9,7 +9,6 @@ categories:
     - opportunities
     - discovery
 ---
-<span>Photo by <a href="">Maciej Gerszewski</a> on <a href="">Unsplash</a></span>
 
 If you follow my articles, you know that I take a data-driven approach to finding business ideas. It's not so much about ideas as it is about business opportunities that you systematically search by using easily accessible data.
 
