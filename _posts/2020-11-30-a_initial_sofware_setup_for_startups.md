@@ -30,4 +30,4 @@ To write articles you need a blogging software for it.
 
 ### E-Mail-Marketing Solution
 
-Content goes hand in hand with email marketing. You want the readers get into email list to stay in touch with them. You want these subscribers turn into loyal customers. In the 
+Content goes hand in hand with email marketing. You want the readers get into email list to stay in touch with them. You want these subscribers turn into loyal customers. In the
