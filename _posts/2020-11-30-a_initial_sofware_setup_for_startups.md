@@ -24,10 +24,26 @@ One last purpose of a content strategy is that your startup will be found by you
 
 To write articles you need a blogging software for it.
 
-| Service                               |  Price |
-| ------------------------------------- | -----: |
-| [wordpress.com](http://wordpress.com) | $25.00 |
+## SaaS
+
+| Service                               | Monthly subscription fees |
+| ------------------------------------- | ------------------------: |
+| [wordpress.com](http://wordpress.com) |                    $25.00 |
+
+## Open Source
+
+| Service                                                   |  Fees |
+| --------------------------------------------------------- | ----: |
+| [Self hosted Wordpress](https://github.com/mautic/mautic) | $0.00 |
+
+Blogging software solutions are very cheap. Is it really worth your while to save the cost of $25.00 for a hosted Wordpress instead of setting up your own Wordpress and hosting it for $10.00 in the cloud?
+
+Well, it depends: With your own Wordpress you can install every feature you want. On the "machine" the software runs you can install more software than just the Blog Software.
 
 ### E-Mail-Marketing Solution
 
-Content goes hand in hand with email marketing. You want the readers get into email list to stay in touch with them. You want these subscribers turn into loyal customers. In the
+Blog content goes hand in hand with email marketing. You want the readers sign up to your list to stay in touch with them. By staying in touch with your subscribers you might turn some of them into paying customers.
+
+In beginning of your startup journey an email list is important, because you can invite individual users for customer interviews, to prove you hypothesises about your customers and their problems. With the insights from the interviews you build your Minimal Viable Products, that you can show prospects from your list.
+
+An email marketing solution automates your email
