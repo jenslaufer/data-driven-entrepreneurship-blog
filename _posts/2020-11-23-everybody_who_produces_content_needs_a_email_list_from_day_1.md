@@ -1,6 +1,12 @@
-# Everyone who produces content needs an email list from day one
-
-## Why it is important whether as a startup or as an author and how I learned the lesson
+---
+title: 'Everyone who produces content needs an email list from day one'
+subtitle: 'Why it is important whether as a startup or as an author and how I learned the lesson'
+header:
+  image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_600/v1607343648/carlos-muza-hpjSkU2UYSU-unsplash.jpg
+  caption: 'Photo by [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) [**Unsplash**](https://unsplash.com/s/photos/niche?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)'
+categories:
+  - marketing
+---
 
 About two years ago I started writing articles on [my personal blog](https://jenslaufer.com/) about all kinds of topics. The goal was to train my writing muscle, because I had realized how important content can be for building up my own business. High quality content creates trust, which makes it much easier to sell your own products.
 
@@ -16,7 +22,7 @@ Despite this knowledge I started my personal blog without an Optin-Form to an em
 
 But then something surprising happened: I had just published a [new article](https://towardsdatascience.com/example-use-cases-of-docker-in-the-data-science-process-15824137eefd) in my blog and later on Medium. The performance of the article on Medium was disappointing. I checked my Google Analytics account a few days later to see this:
 
-![Screenshot Google Analytics](assets/screenshot_analyics.png)
+![Screenshot Google Analytics](/assets/img/screenshot_analyics.png)
 
 The blog was very new, had hardly any visitors and suddenly this flood of visitors? I could not explain it at first. After some research I found out that my article had been selected for the Google Feed which had attracted many readers. Obviously the article had covered a topic that many users are interested in. Unfortunately I had no optin form on my website. It would have been a opportunity to add users to my email list who might have become paying customers one day, even though I didn't have a product at that time.
 
@@ -50,7 +56,9 @@ I believe it is very important that you write the content yourself, because you 
 
 I already mentioned, an important advantage of having your own email list is that you have full control over your subscribers compared to the followers of a content platform, for example. You can fragment your subscribers into different lists, move them between different email lists based on actions such as opening a particular email. You can also map complex automated email sequences:
 
-![Mautic email automation workflow](https://www.digitale-wunderwelt.de/wp-content/uploads/2020/01/mautic-campaign-builder-1024x889.png)
+![Mautic email automation workflow](http://tech.oeru.org/sites/default/files/styles/max_1300x1300/public/2017-03/OERu_Mautic_CourseEmailRules.png?itok=RCQ1Wvo-)
+
+<!-- (/assets/img/mautic_campaign_builder.png) -->
 
 You can identify particularly active customers via an automatic point system that awards points for certain actions such as opening an email or clicking a link. If you do it cleverly, you could even identify this way customers with a certain characteristic, e.g. early adopters.
 
