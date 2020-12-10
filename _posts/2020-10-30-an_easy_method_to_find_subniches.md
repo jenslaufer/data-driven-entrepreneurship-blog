@@ -28,7 +28,7 @@ First, you enter a search term from an area you want to investigate. **The trick
 
 ![Search Autosuggestions Programming b](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_300/v1602484287/search_autosuggestions_programming_b.png)
 
-The sample screenshots are from [Udemy](https://udemy.com), for the super-niche 'programming". I did the work and extracted [all suggested keywords](programming_subniches.csv) for Fiverr, Amazon, Etsy and Udemy. Here are some search terms that are promising:
+The sample screenshots are from [Udemy](https://udemy.com), for the super-niche 'programming". I did the work and extracted [all suggested keywords](/assets/data/programming_subniches.csv) for Fiverr, Amazon, Etsy and Udemy. Here are some search terms that are promising:
 
 | keyword                         | platform | Number of Searches |
 | ------------------------------- | -------- | ------------------ |
