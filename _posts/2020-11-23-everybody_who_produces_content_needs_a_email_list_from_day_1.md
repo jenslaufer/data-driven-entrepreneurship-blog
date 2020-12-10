@@ -45,7 +45,7 @@ Also, keep in mind what happened to me: If your article goes viral or is promote
 
 As a startup, you are looking for a valuable, repeatable and scalable business model. Your goal is to offer a solution (=product) to a customer problem, that exists for a sufficient number of customers (=market). You have to get access to the potential customers (=marketing), and they must be willing to pay as much money for your solution that you can cover your costs to be profitable. You have found your business model when you have achieved this product-market fit.
 
-By performing iterative "experiments", you are heading for the product-market-fit. In these experiments, you build [Minimal Viable Products](https://towardsdatascience.com/example-use-cases-of-docker-in-the-data-science-process-15824137eefd) (MVP), which you show customers as early as possible. Marketing is your focus from the very beginning, it goes hand in hand with your product development.
+By performing iterative "experiments", you are heading for the product-market-fit. In these experiments, you build [Minimal Viable Products](https://jens-laufer.medium.com/why-is-it-important-to-validate-business-ideas-with-minimal-viable-products-mvp-69e45577c752) (MVP), which you show customers as early as possible. Marketing is your focus from the very beginning, it goes hand in hand with your product development.
 
 One strategy is to generate helpful content for potential customers from day one, this way, you can get access to the customers by building up credibility. You can involve these customers early in your product development by showing your Minimal Viable Products to a selected group of subscribers in your email list. In your email list, you look for customers with an early adopter mentality, who are happy to support you in your product development and accept that your product is not perfect yet.
 
@@ -78,4 +78,4 @@ If you produce content, you should have an opt-in to your email list from day on
 - By awarding points for specific actions, you can identify subscribers with certain characteristics.
 - As a blogger/author, you build a database of subscribers without having any products first. However, your subscribers can become paying customers one day.
 - In a startup, you can create a customer database early on with an email list while you are searching for your product-market-fit
-- You can contact individual customers to learn from them by showing them [Minimal Viable Products](https://towardsdatascience.com/example-use-cases-of-docker-in-the-data-science-process-15824137eefd).
+- You can contact individual customers to learn from them by showing them [Minimal Viable Products](https://jens-laufer.medium.com/why-is-it-important-to-validate-business-ideas-with-minimal-viable-products-mvp-69e45577c752).
