@@ -3,12 +3,15 @@ r:
   - "3.6"
 cache: packages
 pandoc_version: "2.6"
+addons:
+  apt:
+    packages:
+      - libgit2-dev
 
 branches:
   only: source
 
 script:
-  - sudo apt update && sudo apt install libgit2-dev
   - Rscript -e 'devtools::install_github("bbc/bbplot", force=T)'
   - Rscript -e 'servr:::knit_maybe(c(".", "_source", "_posts"), c(".", "_posts", "_posts"), "build.R", "jekyll")'
 
