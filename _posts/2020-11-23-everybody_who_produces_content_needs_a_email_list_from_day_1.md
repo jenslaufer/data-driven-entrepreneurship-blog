@@ -72,10 +72,10 @@ You might be lucky, and an article goes viral with social marketing. It would be
 If you produce content, you should have an opt-in to your email list from day one. This is important for several reasons:
 
 - You have full control over your subscribers
-  - You can segment your subscribers
-  - You can contact subscribers in specific sub-lists.
-  - You can automate complex email sequences
-  - By awarding points for specific actions, you can identify subscribers with certain characteristics.
+- You can segment your subscribers
+- You can contact subscribers in specific sub-lists.
+- You can automate complex email sequences
+- By awarding points for specific actions, you can identify subscribers with certain characteristics.
 - As a blogger/author, you build a database of subscribers without having any products first. However, your subscribers can become paying customers one day.
 - In a startup, you can create a customer database early on with an email list while you are searching for your product-market-fit
-  - You can contact individual customers to learn from them by showing them [Minimal Viable Products](https://towardsdatascience.com/example-use-cases-of-docker-in-the-data-science-process-15824137eefd).
+- You can contact individual customers to learn from them by showing them [Minimal Viable Products](https://towardsdatascience.com/example-use-cases-of-docker-in-the-data-science-process-15824137eefd).
