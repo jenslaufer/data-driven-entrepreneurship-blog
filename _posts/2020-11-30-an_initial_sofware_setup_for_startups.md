@@ -2,7 +2,7 @@
 
 ## A stack that lets you focus on what matters: The search for your business model
 
-While writing my last article ["Everyone who produces content needs an email list from day one"](@TODO) I was thinking what a good initial software/tool stack for a startup could be.
+While writing my last article ["Everyone who produces content needs an email list from day one"](https://medium.com/an-idea/everyone-who-produces-content-needs-an-email-list-from-day-one-140bb4bc7cd3) I was thinking what a good initial software/tool stack for a startup could be.
 
 Steve Blank once stated: "A startup is an organization formed to search for a valuable, repeatable and scalable business model".
 Another important principle from him is "Get out of the building", which means that you are in touch with your customers from the beginning. You don't want to build a product for months or years to realize, that nobody wants it. Instead your goal is to find the business model by building [Minimal Viable Products (MVPs)](https://jens-laufer.medium.com/why-is-it-important-to-validate-business-ideas-with-minimal-viable-products-mvp-69e45577c752) in a iterative way, which reduces your financial risk. The process is a sequence of experiments to get validated insights about the customers and their problems. What could be a software/tool stack for this?
@@ -60,13 +60,22 @@ Why is this kind of software optional? Email-marketing-solutions and aContent Ma
 ### Online Survey Tools (Optional)
 
 To find your scalable, repeatable and valuable business model you must learn about your target customer and his pain points.
-Your startup solves these pain points with your products. Surveys are a good way of learning besides interviews.
+Your startup removes these pain points with your products. Surveys are a good way of learning about customers besides interviewing them.
 
-There are SaaS that let you create surveys without friction. Cloud based SaaS Survey software like [SurveyMonkey](https://apply.surveymonkey.com/referral-demo/?grsf=e85j0h) and [TypeForm](https://typeform.com) just offer payed packages. [JotForm](https://jotform.com) is a bit cheaper and also offers a free layer. [Google Forms](https://docs.google.com/forms/) are free.
+There are SaaS solutions that let you create surveys without friction: While [SurveyMonkey](https://apply.surveymonkey.com/referral-demo/?grsf=e85j0h) and [TypeForm](https://typeform.com) only provide payed packages, offers [JotForm](https://jotform.com) a free layer. [Google Forms](https://docs.google.com/forms/) are completely free for individuals.
 
-I think conducting surveys is important, because it's a data driven approach to get insights. However I wouldn't spend money for a survey tool to keep your costs low. Google Forms are you friend for surveys.
-For sure you cannot easily conduct a survey within your domain name, but do you really want it. But do you really want this? While operating in the search mode I would rather use different domains to stay under the radar: Remember, you haven't found your final business model, so it's a bad idea to burn your brand in this stage. Therefore it's OK to conduct surveys from a personal Google account.
+I think conducting surveys is important, because it's a data driven approach to get insights. However, I wouldn't spend money for a survey tool to keep your costs low. Google Forms are you friend for surveys.
+You cannot easily conduct a survey with a custom domain name with your private Google account. But do you really want this? While operating in the business model search mode I would rather stay under the radar: Remember, you haven't found your final business model, so it's a bad idea to build up (and destroy) a brand in this stage. Brand building is something for the era after you found your business model. Therefore it's OK to conduct surveys from a personal Google account. Another option is a Survey plugin for your CMS.
 
 **Extra Tipp**
 
 For all SaaS solution it's better to bring your own domain with, which means that you register the domain with a domain provider like GoDaddy or Namecheap. You have better control this way, moving services around is easier.
+
+## Summary
+
+An initial software stack for early stage only consists of two components:
+
+- CMS
+- E-Mail Automation Solution
+
+Landing page building and Surveys are as well essential, but many CMS systems or E-Marketing solutions provide plugins for these functionality.
