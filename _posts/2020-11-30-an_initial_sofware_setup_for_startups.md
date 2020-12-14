@@ -19,19 +19,7 @@ One last purpose of a content strategy is that your startup will be found by you
 
 To write articles you need a Content Management System (CMS). There are many content management system out there. The most common are Wordpress, Drupal and Typo3. An alternative to a CMS are static website generators like Jekyll, Hugo or Gatsby to name a few. With Jekyll you are able to host your website without any cost on Github.
 
-#### SaaS
-
-| Service                               | Monthly subscription fees |
-| ------------------------------------- | ------------------------: |
-| [wordpress.com](http://wordpress.com) |                    $25.00 |
-
-#### Open Source
-
-| Service                                         |  Fees |
-| ----------------------------------------------- | ----: |
-| [Self hosted Wordpress](https://wordpress.org/) | $0.00 |
-
-SaaS CMS solutions are very cheap. Is it really worth your while to save the cost of $25.00 for a hosted Wordpress by setting up your own Wordpress and hosting it for $10.00 in the cloud?
+SaaS CMS solutions are very cheap. You can get a hosted Wordpress with your own domain for only $25.00. Is it really worth your while to save these costs by setting up your own Wordpress and hosting it for $10.00 in the cloud?
 
 Well, it depends: With a SaaS solution you are stuck with the provider's plugins. Hosting your own Wordpress offers you the freedom to install every plugin you want. Once you have setup the virtual machine for the CMS you can run other free open source software tools on there.
 
@@ -66,6 +54,8 @@ There are SaaS solutions that let you create surveys without friction: While [Su
 
 I think conducting surveys is important, because it's a data driven approach to get insights. However, I wouldn't spend money for a survey tool to keep your costs low. Google Forms are you friend for surveys.
 You cannot easily conduct a survey with a custom domain name with your private Google account. But do you really want this? While operating in the business model search mode I would rather stay under the radar: Remember, you haven't found your final business model, so it's a bad idea to build up (and destroy) a brand in this stage. Brand building is something for the era after you found your business model. Therefore it's OK to conduct surveys from a personal Google account. Another option is a Survey plugin for your CMS.
+
+## Pricing comparison
 
 **Extra Tipp**
 
