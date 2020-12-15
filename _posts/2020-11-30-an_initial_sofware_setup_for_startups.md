@@ -31,7 +31,7 @@ In beginning of your startup journey an email list is important, because you can
 
 An email marketing solution is a software around your email list. The software lets you fragment your subscribers in different lists, move subcscribers between list on actions the subscriber performed like opening mails or clicking links. The software provides a file storage for resources like your lead magnets. Other features are subcscription form and landing page builders. Most solutions offer a kind of point system that add points to subscribers in case of a performed action. This way you can identify your most active and loyal subscribers. These subscribers are the easiest to turn into paying customers.
 
-The variety of features comes as its price: If you want all features I described before, you pay from 50-200 bucks with biggest SaaS providers in the market like [aWeber](https://www.aweber.com/easy-email.htm?id=520754), [MailChimp](https://mailchimp.com/) or [ConvertKit](https://convertkit.com/). Additional costs are the cost for the volume of emails you send out. The costs are quickly adding up to a thousand bucks a month. Maybe not right from the beginning with a small list, as most of these providers offer a free layer with the lack of important features that are essential. However, later when you have a few thousands subscribers these costs may hurt you.
+The variety of features comes as its price: If you want all features I described before, you pay from 50-200 bucks with biggest SaaS providers in the market like [aWeber](https://www.aweber.com/easy-email.htm?id=520754), [MailChimp](https://mailchimp.com/) or [ConvertKit](https://convertkit.com/?lmref=gBzZ8Q). Additional costs are the cost for the volume of emails you send out. The costs are quickly adding up to a thousand bucks a month. Maybe not right from the beginning with a small list, as most of these providers offer a free layer with the lack of important features that are essential. However, later when you have a few thousands subscribers these costs may hurt you.
 
 An alternative is to self-host an open-source-marketing email marketing solution like [MailTrain](https://github.com/Mailtrain-org/mailtrain) or [Mautic](https://github.com/mautic/mautic). These solutions provide the most features the SaaS solutions have for $0. The only you must pay for are the costs for the hosting and the fees for the mails you send out. The hosting costs are as low as 10 bucks on [DigitalOcean](https://m.do.co/c/938229235b24). With Amazon's Simple Email Service (SES) you pay a fraction of the price sending out the same volume of emails compared to a SaaS provider. It's [literally 34X cheaper](https://medium.com/better-marketing/mailchimp-is-dead-it-just-doesnt-know-it-yet-6e404c3e4b7b).
 
@@ -56,6 +56,8 @@ I think conducting surveys is important, because it's a data driven approach to 
 You cannot easily conduct a survey with a custom domain name with your private Google account. But do you really want this? While operating in the business model search mode I would rather stay under the radar: Remember, you haven't found your final business model, so it's a bad idea to build up (and destroy) a brand in this stage. Brand building is something for the era after you found your business model. Therefore it's OK to conduct surveys from a personal Google account. Another option is a Survey plugin for your CMS.
 
 ## Pricing comparison
+
+To get an idea what costs you can expect I collected data.
 
 **Extra Tipp**
 
